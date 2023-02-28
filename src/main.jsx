@@ -16,7 +16,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 
     <MyCollectionProvider>
 
-      <BrowserRouter>
+      <BrowserRouter basename="/JokesWeb">
 
         <App />
 
