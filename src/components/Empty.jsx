@@ -8,7 +8,7 @@ function Empty() {
 
       <div className="container">
 
-        <h3 id="joke"> You have saved no Jokes ☹️ </h3>
+        <h3 id="joke"> You didn't saved any Jokes ☹️ </h3>
 
       </div>
 
